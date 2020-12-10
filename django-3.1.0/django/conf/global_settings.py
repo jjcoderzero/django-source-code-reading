@@ -1,6 +1,5 @@
 """
-Default Django settings. Override these with settings in the module pointed to
-by the DJANGO_SETTINGS_MODULE environment variable.
+Django默认设置。用所指向的模块中的设置覆盖这些设置.通过DJANGO_SETTINGS_MODULE环境变量。
 """
 
 
