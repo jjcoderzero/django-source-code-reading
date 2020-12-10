@@ -6,6 +6,7 @@ from django.db import models
 from django.utils.encoding import force_str
 
 from rest_framework import exceptions, serializers
+
 from rest_framework.compat import coreapi, coreschema, uritemplate
 from rest_framework.settings import api_settings
 
